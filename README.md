@@ -7,9 +7,7 @@
 
 ## Glad to see you here!
 
-I am a Computer Science Student at Ramaiah Institute of Technology, Bangalore.
-
-I love solving Algorithmic problems and I've been doing the same mostly at Leetcode and Codeforces.
+I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangalore!
 
 ## **Talking about Personal Stuffs:**
 
