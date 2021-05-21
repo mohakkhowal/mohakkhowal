@@ -35,4 +35,4 @@ I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangal
 
 ## 👋 Thanks you for visiting my profile!
 
-### Visitor count: &nbsp; &nbsp; ![Count](https://profile-counter.glitch.me/mohakkhowal/count.svg)
+ **Visitor count:** &nbsp; &nbsp; ![Count](https://profile-counter.glitch.me/mohakkhowal/count.svg)
