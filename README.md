@@ -32,3 +32,7 @@ I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangal
 ## 🎶 **What I'm listening to right now!**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=29ot64a6jykgbrqnih4y1ft9q&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=29ot64a6jykgbrqnih4y1ft9q&redirect=true)
+
+## 👋 Thanks you for visiting my profile!
+
+### Visitor count: &nbsp; &nbsp; ![Count](https://profile-counter.glitch.me/mohakkhowal/count.svg)
