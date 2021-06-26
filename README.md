@@ -29,6 +29,8 @@ I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangal
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohakkhowal&show_icons=true&theme=great-gatsby&count_private=true) &nbsp; &nbsp;
 
+![Languages I've Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mohakkhowal&layout=compact&theme=great-gatsby&&count_private=true&show_icons=true) &nbsp; &nbsp;
+
 ## 🎶 **What I'm listening to right now!**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=29ot64a6jykgbrqnih4y1ft9q&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=29ot64a6jykgbrqnih4y1ft9q&redirect=true)
