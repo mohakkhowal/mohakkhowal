@@ -8,7 +8,7 @@
 ## 😄 **Glad to see you here!**
 
 I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangalore!<br>
-<a href ="https://www.tinyurl.com/resume-mohak-khowal-rit">📄 RESUME</a>
+<a href ="https://docs.google.com/document/d/1qOI5OKa9JqEYJaMkxZgjgKdJEmI25-S-wsSyE4sZgMU/export?format=pdf">📄 RESUME</a>
 
 ## 💻 **Talking about Personal Stuffs:**
 
