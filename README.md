@@ -8,7 +8,7 @@
 ## 😄 **Glad to see you here!**
 
 I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangalore and I’m currently working with <strong>Samsung Prism!</strong> <br>
-<a href ="https://tinyurl.com/resume-mohak-khowal">📄 RESUME</a>
+<a href ="https://drive.google.com/file/d/10ekhOBbQ8OGkS20tKeLvolMy08D_W6wc/view?usp=sharing">📄 RESUME</a>
 
 ## 💻 **Talking about Personal Stuffs:**
 
