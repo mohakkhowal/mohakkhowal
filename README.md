@@ -8,7 +8,7 @@
 ## 😄 **Glad to see you here!**
 
 I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangalore and I’m currently working with <strong>Samsung Prism!</strong> <br>
-<a href ="https://drive.google.com/file/d/1bU9JUI55wwe2EXMlqyCRb-cYUVBt3X5D/view?usp=sharing">📄 RESUME</a>
+<a href ="https://drive.google.com/file/d/1NfbZx_GCbm0MucUxCAicZ_A4jgI9DntQ/view?usp=sharing">📄 RESUME</a>
 
 ## 💻 **Talking about Personal Stuffs:**
 
