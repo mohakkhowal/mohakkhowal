@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohak-khowal/)](https://www.linkedin.com/in/mohak-khowal/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mohakkkkkkkk)](https://twitter.com/mohakkkkkkkk)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mohakkkk._/)](https://instagram.com/mohakkkk._)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mailmohak16@gmail.com)](mailto:mailmohak16@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mailmohak17@gmail.com)](mailto:mailmohak17@gmail.com)
 
 
 ## 😄 **Glad to see you here!**
