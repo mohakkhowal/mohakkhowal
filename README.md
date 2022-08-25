@@ -15,7 +15,7 @@ I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangal
 - 👨🏻‍💻 I’m currently learning Flutter!
 - 🚀 I love solving Algorithmic problems and I've been doing the same mostly at Leetcode and Codeforces.
 - 💬 Feel free to ask me about anything, I am happy to help!
-- 📫 You can reach me at: mailmohak16@gmail.com
+- 📫 You can reach me at: mailmohak17@gmail.com
 
 ## 🛠 **Language and Tools:**
 
