@@ -12,7 +12,7 @@ I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangal
 
 ## 💻 **Talking about Personal Stuff:**
 
-- 🚀 I love solving Algorithmic problems and I've been doing the same mostly at Leetcode and Codeforces.
+- 🚀 I love solving Algorithmic problems and I've been doing the same mostly at Leetcode, GFG and CSES.
 - 💬 Feel free to ask me about anything, I am happy to help!
 - 📫 You can reach me at: mailmohak17@gmail.com
 
