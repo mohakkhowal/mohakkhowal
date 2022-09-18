@@ -7,12 +7,11 @@
 
 ## 😄 **Glad to see you here!**
 
-I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangalore and I’m currently working with <strong>Samsung Prism!</strong> <br>
+I am a Computer Science undergraduate at Ramaiah Institute of Technology, Bangalore and I’ve previously worked with <strong>Samsung Prism!</strong> <br>
 <a href ="https://drive.google.com/file/d/1NfbZx_GCbm0MucUxCAicZ_A4jgI9DntQ/view?usp=sharing">📄 RESUME</a>
 
-## 💻 **Talking about Personal Stuffs:**
+## 💻 **Talking about Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently learning Flutter!
 - 🚀 I love solving Algorithmic problems and I've been doing the same mostly at Leetcode and Codeforces.
 - 💬 Feel free to ask me about anything, I am happy to help!
 - 📫 You can reach me at: mailmohak17@gmail.com
